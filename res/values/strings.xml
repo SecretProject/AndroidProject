@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Welcome to Ashwin\'s CHAT App</string>
+    <string name="app_name">AshwinChatApp</string>
+    <string name="SEND">SEND</string>
+    <string name="hint">Type your message</string>
+    <string name="RESET">EXIT</string>
+    
+
+</resources>
